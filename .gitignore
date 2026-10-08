@@ -1,0 +1,13 @@
+# Build output
+/build/
+/out/
+*.obj
+*.o
+
+# Runtime backups created next to the executable
+/backups/
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
